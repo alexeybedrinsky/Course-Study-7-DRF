@@ -10,12 +10,10 @@
 10.	habits/urls.py
 11.	habits/validators.py
 12.	habits/permissions.py
-13.	telegram_bot/bot.py
-14.	telegram_bot/tasks.py
-15.	celery.py
-16.	habits/tests.py
-17.	.flake8
-18.	README.md
+13.	celery.py
+14.	habits/tests.py
+15.	.flake8
+16.	README.md
 
 
 Описание задачи
